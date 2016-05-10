@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameOverLogic.cs" Line="21" Column="1" />
+      <File FileName="Assets\Scripts\Controls.cs" Line="75" Column="2" />
+      <File FileName="Assets\Scripts\Controller.cs" Line="73" Column="18" />
+      <File FileName="Assets\Scripts\KamikazeBahaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Independent Work\Augmented Virtuality\Assets\GenerateWorld.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ExplosionAnimate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LaserCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameOverPan.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
